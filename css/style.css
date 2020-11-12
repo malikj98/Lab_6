@@ -10,6 +10,7 @@
 	text-decoration: none;
 }
 #main-navbar ul{
+	display: block;
 	float: left;
 	left: 50%;
 	margin: 0;
