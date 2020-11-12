@@ -10,14 +10,12 @@
 	text-decoration: none;
 }
 #main-navbar ul{
-	background-color: blue;
 	float: left;
-	list-style-type: none;
+	left: 50%;
 	margin: 0;
-	overflow: hidden;
 	padding: 0;
 	position: relative;
-	text-decoration: none;
+	
 }
 #main-navbar li{
 	display: block;
