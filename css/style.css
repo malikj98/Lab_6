@@ -5,7 +5,9 @@
 
 #main-navbar{
 	background-color: blue;
+	list-style-type: none;
 	overflow: hidden;
+	text-decoration: none;
 }
 #main-navbar ul{
 	background-color: blue;
