@@ -12,25 +12,26 @@
 #main-navbar ul{
 	display: block;
 	float: left;
+	list-style-type: none;
 	left: 50%;
 	margin: 0;
 	padding: 0;
 	position: relative;
 	
 }
-#main-navbar li{
+#main-navbar ul li{
 	display: block;
 	float: left;
 	position: relative;
 	right: 50%;
 }
-#main-navbar a{
+#main-navbar ul li a{
 	color: #fff;
 	display: block;
 	padding: 10px 20px;
 	text-decoration: none;
 }
-#main-navbar a:hover{
+#main-navbar ul li a:hover{
 	background-color: #000;
 }
 #onpage{
